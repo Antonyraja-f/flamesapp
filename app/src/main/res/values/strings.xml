@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlamesApp</string>
+
+    <string name="hint_your_name">Your Name</string>
+    <string name="hint_partner_name">Partner\'s Name</string>
+    <string name="btn_caculate">Calculate</string>
+
+    <string name="err_enter_name">Error, please enter a name!</string>
+
+    <string name="FLAMES">FLAMES</string>
+
+</resources>
